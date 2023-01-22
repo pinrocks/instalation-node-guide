@@ -21,8 +21,8 @@
 - At least 8GB of memory (RAM)
 - At least 120mbps network bandwidth
 
-# Planq Mainnet Node Guide (Custom Port 14)  
-# [Manual Install](https://github.com/elangrr/testnet_guide/blob/main/planq/manual_install.md)
+# Planq Mainnet Node Guide (Custom Port 35)  
+# [Manual Install](https://github.com/pinrocks/instalation-node-guide/blob/e853033ff271ff4c12ba28f4a93abd74a392a042/planq/manual-planq.md#L1)
 # Auto Install
 ```
 wget -O planq.sh https://github.com/pinrocks/instalation-node-guide/blob/main/mainnet/planq.sh && chmod +x planq.sh && ./planq.sh
