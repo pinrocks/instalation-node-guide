@@ -25,7 +25,7 @@
 # [Manual Install](https://github.com/pinrocks/instalation-node-guide/blob/e853033ff271ff4c12ba28f4a93abd74a392a042/planq/manual-planq.md#L1)
 # Auto Install
 ```
-wget -O planq.sh https://github.com/pinrocks/instalation-node-guide/blob/main/planq/planq.sh && chmod +x planq.sh && ./planq.sh
+wget -O planq.sh https://raw.githubusercontent.com/pinrocks/instalation-node-guide/main/planq/planq.sh && chmod +x planq.sh && ./planq.sh
 ```
 
 After install node run 
