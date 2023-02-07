@@ -10,7 +10,7 @@ Official doc: https://docs.lamina1.network/docs/userguide/#running-a-lamina1-nod
 ## TESTNET node setup
 1. Clone repo git clone
    ```
-   git clone https://github.com/pinrocks/lamina1-node.git
+   https://github.com/pinrocks/instalation-node-guide.git
    ```
 2. cd into the project folder 
    ```
